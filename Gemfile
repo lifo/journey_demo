@@ -1,7 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails', '3.2.8'
-gem 'journey', github: 'rails/journey', branch: '1-0-stable'
+gem 'rails', '3.1.8'
 
 gem 'sqlite3'
 gem 'jquery-rails'

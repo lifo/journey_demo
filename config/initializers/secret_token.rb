@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-JourneyDemo::Application.config.secret_token = '9eb5a807e450a561a7b186fb9b1541ad9b92b1d233bf35c07439e131e54e40a96b3b65a9c16dc1fe8d553ec5e9c2759f071f34febab166550a64db87f3e09639'
+JourneyDemo::Application.config.secret_token = 'b65d28bfeeabbf7bfbaf0a42ae3d10a38c7c088226ddb6988c6b122fd56971e7d51e5cc1251ccc312f4556090ed48440e4eb8c9caad2e9c066555668ffee5ac1'
