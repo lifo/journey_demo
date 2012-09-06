@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/rails/journey.git
-  revision: 88a929643a6144722315ff1c262b22c6b3030bc7
+  revision: 390f056dc3b941ef5489dc0f1c9420db8a45b9fd
   branch: 1-0-stable
   specs:
     journey (1.0.4.20120614141756)
